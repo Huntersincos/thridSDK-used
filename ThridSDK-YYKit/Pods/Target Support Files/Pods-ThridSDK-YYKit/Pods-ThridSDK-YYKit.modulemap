@@ -1,6 +1,0 @@
-framework module Pods_ThridSDK_YYKit {
-  umbrella header "Pods-ThridSDK-YYKit-umbrella.h"
-
-  export *
-  module * { export * }
-}
